@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1792406789823,
+    "description" : "Test NiFi flow for GitHub version control integration.",
+    "identifier" : "GitHubTestFlow",
+    "lastModifiedTimestamp" : 1792406789823,
+    "name" : "GitHub_Test_Flow",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
